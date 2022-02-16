@@ -6,7 +6,6 @@ import base_decrypt
 import rsa_decrypt
 import rsa_encrypt
 import rsa_builder
-import re
 
 
 def encrypt(data_encrypt):
